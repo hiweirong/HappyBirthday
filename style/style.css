@@ -126,7 +126,7 @@ body {
   position: absolute;
   width: 80px;
   top: 200px; /* 减去帽子高度一半的位置 */
-  left: 150px; /* 减去帽子宽度一半的位置 */
+  left: 450px; /* 减去帽子宽度一半的位置 */
   /* top: -70px;
   left: 49%; */
   /* 等比例扩大图片到2倍 */
