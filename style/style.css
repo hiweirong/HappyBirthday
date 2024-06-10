@@ -128,7 +128,7 @@ body {
   /* top: 200px; 减去帽子高度一半的位置 */
   /* left: 0px; 减去帽子宽度一半的位置 */
   top: 50%;
-  left: 40%;
+  left: -30px;
   /* 等比例扩大图片到2倍 */
   transform: scale(1.1);
 }
