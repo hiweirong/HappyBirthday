@@ -125,8 +125,8 @@ body {
 .six .hat {
   position: absolute;
   width: 80px;
-  top: 200px - 80px/2; /* 减去帽子高度一半的位置 */
-  left: 220px - 80px/2; /* 减去帽子宽度一半的位置 */
+  top: 470px - 80px/2; /* 减去帽子高度一半的位置 */
+  left: 1800px - 80px/2; /* 减去帽子宽度一半的位置 */
   /* top: -70px;
   left: 49%; */
   /* 等比例扩大图片到2倍 */
